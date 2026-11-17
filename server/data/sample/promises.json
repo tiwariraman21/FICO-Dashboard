@@ -1,0 +1,29 @@
+[
+  {
+    "id": "PTP-0412",
+    "customerId": "C200003",
+    "amount": 4500000,
+    "promisedFor": "2026-10-31",
+    "recordedAt": "2026-10-24",
+    "recordedBy": "Sneha Patil",
+    "note": "Mr. Pathak confirmed by phone, cheque to be deposited by 31 Oct."
+  },
+  {
+    "id": "PTP-0418",
+    "customerId": "C200001",
+    "amount": 6200000,
+    "promisedFor": "2026-11-15",
+    "recordedAt": "2026-11-06",
+    "recordedBy": "Sneha Patil",
+    "note": "RTGS scheduled for 15 Nov after their own client releases funds."
+  },
+  {
+    "id": "PTP-0420",
+    "customerId": "C300001",
+    "amount": 11000000,
+    "promisedFor": "2026-11-20",
+    "recordedAt": "2026-11-07",
+    "recordedBy": "Sneha Patil",
+    "note": "Excluding the disputed invoice. NHAI milestone payment expected mid-November."
+  }
+]

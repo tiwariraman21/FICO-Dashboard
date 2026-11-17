@@ -1,0 +1,291 @@
+[
+  {
+    "docNo": "100000412",
+    "companyCode": "1000",
+    "type": "Accrual",
+    "period": 7,
+    "title": "October power accrual, Pune",
+    "description": "Power and fuel for October at the Pune plant. The utility bill arrives around the 12th; the accrual uses metered units of 2.38 million kWh at the contracted rate of 7.72 per kWh.",
+    "preparedBy": {
+      "name": "Amit Joshi",
+      "title": "General Ledger Lead"
+    },
+    "preparedAt": "2026-11-06T16:20:00",
+    "attachments": 2,
+    "reversal": "Reverses on 1 Nov 2026",
+    "lines": [
+      {
+        "gl": "520000",
+        "debit": 18400000,
+        "credit": 0,
+        "costCentre": "1000-PRD",
+        "text": "Power, October"
+      },
+      {
+        "gl": "220100",
+        "debit": 0,
+        "credit": 18400000,
+        "costCentre": null,
+        "text": "Accrued power"
+      }
+    ],
+    "amount": 18400000
+  },
+  {
+    "docNo": "100000413",
+    "companyCode": "2000",
+    "type": "Provision",
+    "period": 7,
+    "title": "Bonus provision, October",
+    "description": "Monthly provision for statutory bonus at 8.33 percent of eligible wages, Mumbai unit.",
+    "preparedBy": {
+      "name": "Amit Joshi",
+      "title": "General Ledger Lead"
+    },
+    "preparedAt": "2026-11-06T11:05:00",
+    "attachments": 1,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "550500",
+        "debit": 6200000,
+        "credit": 0,
+        "costCentre": "2000-ADM",
+        "text": "Bonus provision"
+      },
+      {
+        "gl": "220200",
+        "debit": 0,
+        "credit": 6200000,
+        "costCentre": null,
+        "text": "Provision for bonus"
+      }
+    ],
+    "amount": 6200000
+  },
+  {
+    "docNo": "100000414",
+    "companyCode": "3000",
+    "type": "Reclassification",
+    "period": 7,
+    "title": "Clear freight out of suspense",
+    "description": "Freight bills posted to suspense in September because the cost centre was not given. Reclassifying to freight outward, Nagpur logistics.",
+    "preparedBy": {
+      "name": "Sanjay Pawar",
+      "title": "Accountant, Nagpur"
+    },
+    "preparedAt": "2026-11-05T15:40:00",
+    "attachments": 3,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "530000",
+        "debit": 1839999.9999999998,
+        "credit": 0,
+        "costCentre": "3000-LOG",
+        "text": "Freight, Sep and Oct"
+      },
+      {
+        "gl": "199999",
+        "debit": 0,
+        "credit": 1839999.9999999998,
+        "costCentre": null,
+        "text": "Suspense cleared"
+      }
+    ],
+    "amount": 1839999.9999999998
+  },
+  {
+    "docNo": "100000415",
+    "companyCode": "2000",
+    "type": "Write-off",
+    "period": 7,
+    "title": "Write off Gateway Infra Traders short payment",
+    "description": "Gateway deducted a cash discount they were not entitled to on three invoices in June. Recovery judged uneconomic by the Mumbai sales head.",
+    "preparedBy": {
+      "name": "Sneha Patil",
+      "title": "Receivables and Credit Lead"
+    },
+    "preparedAt": "2026-11-04T10:12:00",
+    "attachments": 1,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "590000",
+        "debit": 960000,
+        "credit": 0,
+        "costCentre": "2000-SAL",
+        "text": "Unrecoverable deduction"
+      },
+      {
+        "gl": "140000",
+        "debit": 0,
+        "credit": 960000,
+        "costCentre": null,
+        "text": "Gateway Infra Traders, C200005"
+      }
+    ],
+    "needsCfo": true,
+    "amount": 960000
+  },
+  {
+    "docNo": "100000416",
+    "companyCode": "1000",
+    "type": "Amortisation",
+    "period": 7,
+    "title": "Insurance amortisation, October",
+    "description": "One twelfth of the annual industrial all-risk policy, premium 86.4 lakh paid in April.",
+    "preparedBy": {
+      "name": "Amit Joshi",
+      "title": "General Ledger Lead"
+    },
+    "preparedAt": "2026-11-06T12:30:00",
+    "attachments": 1,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "570000",
+        "debit": 720000,
+        "credit": 0,
+        "costCentre": "1000-ADM",
+        "text": "Insurance, October"
+      },
+      {
+        "gl": "150100",
+        "debit": 0,
+        "credit": 720000,
+        "costCentre": null,
+        "text": "Prepaid insurance"
+      }
+    ],
+    "amount": 720000
+  },
+  {
+    "docNo": "100000417",
+    "companyCode": "2000",
+    "type": "Revaluation",
+    "period": 7,
+    "title": "Foreign currency revaluation, Jebel Coal payable",
+    "description": "Month-end revaluation of USD 2.21 million owed to Jebel Coal DMCC. Rate moved from 83.10 to 84.15.",
+    "preparedBy": {
+      "name": "Kavita Menon",
+      "title": "Treasury Manager"
+    },
+    "preparedAt": "2026-11-06T17:45:00",
+    "attachments": 1,
+    "reversal": "Reverses on 1 Nov 2026",
+    "lines": [
+      {
+        "gl": "595000",
+        "debit": 2310000,
+        "credit": 0,
+        "costCentre": "2000-ADM",
+        "text": "Unrealised exchange loss"
+      },
+      {
+        "gl": "210000",
+        "debit": 0,
+        "credit": 2310000,
+        "costCentre": null,
+        "text": "Jebel Coal DMCC, V100108"
+      }
+    ],
+    "amount": 2310000
+  },
+  {
+    "docNo": "100000418",
+    "companyCode": "1000",
+    "type": "Intercompany",
+    "period": 7,
+    "title": "Recharge shared IT costs to Mumbai and Nagpur",
+    "description": "SAP licences, network and helpdesk run from Pune, recharged by headcount: Mumbai 38 percent, Nagpur 27 percent.",
+    "preparedBy": {
+      "name": "Priya Deshpande",
+      "title": "Controlling Lead"
+    },
+    "preparedAt": "2026-11-06T14:10:00",
+    "attachments": 2,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "170100",
+        "debit": 3400000,
+        "credit": 0,
+        "costCentre": null,
+        "text": "Due from Mumbai and Nagpur"
+      },
+      {
+        "gl": "560000",
+        "debit": 0,
+        "credit": 3400000,
+        "costCentre": "1000-IT",
+        "text": "IT recharge"
+      }
+    ],
+    "amount": 3400000
+  },
+  {
+    "docNo": "100000419",
+    "companyCode": "3000",
+    "type": "Manual entry",
+    "period": 7,
+    "title": "Depreciation correction, kiln 2",
+    "description": "Correction to depreciation on kiln 2 after the useful life was revised.",
+    "preparedBy": {
+      "name": "Sanjay Pawar",
+      "title": "Accountant, Nagpur"
+    },
+    "preparedAt": "2026-11-08T23:41:00",
+    "attachments": 0,
+    "reversal": null,
+    "lines": [
+      {
+        "gl": "180100",
+        "debit": 409999.99999999994,
+        "credit": 0,
+        "costCentre": null,
+        "text": "Accumulated depreciation"
+      },
+      {
+        "gl": "580000",
+        "debit": 0,
+        "credit": 409999.99999999994,
+        "costCentre": "3000-PRD",
+        "text": "Depreciation reversed"
+      }
+    ],
+    "amount": 409999.99999999994
+  },
+  {
+    "docNo": "100000420",
+    "companyCode": "1000",
+    "type": "Accrual",
+    "period": 7,
+    "title": "Freight accrual, October dispatches",
+    "description": "Outbound freight for October dispatches where the transporter bill has not arrived: 41,200 MT at an average 168 per MT.",
+    "preparedBy": {
+      "name": "Amit Joshi",
+      "title": "General Ledger Lead"
+    },
+    "preparedAt": "2026-11-09T09:55:00",
+    "attachments": 1,
+    "reversal": "Reverses on 1 Nov 2026",
+    "lines": [
+      {
+        "gl": "530000",
+        "debit": 6920000,
+        "credit": 0,
+        "costCentre": "1000-LOG",
+        "text": "Freight, October"
+      },
+      {
+        "gl": "220100",
+        "debit": 0,
+        "credit": 6920000,
+        "costCentre": null,
+        "text": "Accrued freight"
+      }
+    ],
+    "amount": 6920000
+  }
+]

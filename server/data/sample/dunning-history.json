@@ -1,0 +1,30 @@
+[
+  {
+    "customerId": "C200005",
+    "level": 3,
+    "sentAt": "2026-11-03",
+    "by": "Sneha Patil",
+    "note": "Final reminder before legal notice."
+  },
+  {
+    "customerId": "C200005",
+    "level": 2,
+    "sentAt": "2026-10-13",
+    "by": "Sneha Patil",
+    "note": ""
+  },
+  {
+    "customerId": "C300003",
+    "level": 2,
+    "sentAt": "2026-10-28",
+    "by": "Sneha Patil",
+    "note": ""
+  },
+  {
+    "customerId": "C100005",
+    "level": 2,
+    "sentAt": "2026-11-01",
+    "by": "Sneha Patil",
+    "note": ""
+  }
+]

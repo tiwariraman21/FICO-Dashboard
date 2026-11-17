@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SAL",
+    "label": "Salaries",
+    "dayOfMonth": 1,
+    "amounts": {
+      "1000": 14500000,
+      "2000": 11000000,
+      "3000": 9200000
+    }
+  },
+  {
+    "id": "TDS",
+    "label": "TDS deposit",
+    "dayOfMonth": 7,
+    "amounts": {
+      "1000": 3100000,
+      "2000": 2700000,
+      "3000": 1900000
+    }
+  },
+  {
+    "id": "PF",
+    "label": "PF and ESIC",
+    "dayOfMonth": 15,
+    "amounts": {
+      "1000": 2200000,
+      "2000": 1700000.0000000002,
+      "3000": 1400000.0000000002
+    }
+  },
+  {
+    "id": "GST",
+    "label": "GST payment (GSTR-3B)",
+    "dayOfMonth": 20,
+    "amounts": {
+      "1000": 19000000,
+      "2000": 24000000,
+      "3000": 15500000
+    }
+  },
+  {
+    "id": "EMI",
+    "label": "Term loan instalment",
+    "dayOfMonth": 5,
+    "amounts": {
+      "1000": 8500000,
+      "2000": 0,
+      "3000": 4000000
+    }
+  }
+]

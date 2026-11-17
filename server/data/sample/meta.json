@@ -1,0 +1,231 @@
+{
+  "_note": "Sample data. Invented for demonstration; nothing here comes from SAP.",
+  "asOf": "2026-11-09",
+  "generatedBy": "server/scripts/build-sample-data.js",
+  "fiscal": {
+    "year": "2026-27",
+    "currentPeriod": 8,
+    "closingPeriod": 7,
+    "closingPeriodLabel": "October 2026",
+    "periods": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ]
+  },
+  "companyCodes": [
+    {
+      "code": "1000",
+      "name": "Pune",
+      "legalName": "InfraBeat Technologies Pvt. Ltd., Pune unit",
+      "city": "Pune",
+      "currency": "INR"
+    },
+    {
+      "code": "2000",
+      "name": "Mumbai",
+      "legalName": "InfraBeat Technologies Pvt. Ltd., Mumbai unit",
+      "city": "Mumbai",
+      "currency": "INR"
+    },
+    {
+      "code": "3000",
+      "name": "Nagpur",
+      "legalName": "InfraBeat Technologies Pvt. Ltd., Nagpur unit",
+      "city": "Nagpur",
+      "currency": "INR"
+    }
+  ],
+  "people": {
+    "you": {
+      "name": "Meera K",
+      "title": "Finance Controller"
+    },
+    "cfo": {
+      "name": "Ms. Nandini Rao",
+      "title": "Chief Financial Officer"
+    },
+    "ap": {
+      "name": "Rohit Kulkarni",
+      "title": "Accounts Payable Lead"
+    },
+    "ar": {
+      "name": "Sneha Patil",
+      "title": "Receivables and Credit Lead"
+    },
+    "gl": {
+      "name": "Amit Joshi",
+      "title": "General Ledger Lead"
+    },
+    "co": {
+      "name": "Priya Deshpande",
+      "title": "Controlling Lead"
+    },
+    "tax": {
+      "name": "Farhan Shaikh",
+      "title": "Indirect Tax Manager"
+    },
+    "treasury": {
+      "name": "Kavita Menon",
+      "title": "Treasury Manager"
+    },
+    "acc1": {
+      "name": "Sanjay Pawar",
+      "title": "Accountant, Nagpur"
+    },
+    "acc2": {
+      "name": "Neha Gokhale",
+      "title": "Accountant, Mumbai"
+    },
+    "buyer": {
+      "name": "Mr. Anil Deshmukh",
+      "title": "Procurement desk lead"
+    }
+  },
+  "glAccounts": [
+    {
+      "gl": "110100",
+      "name": "Bank, current accounts",
+      "type": "BS"
+    },
+    {
+      "gl": "110900",
+      "name": "Cash credit facility",
+      "type": "BS"
+    },
+    {
+      "gl": "140000",
+      "name": "Trade receivables",
+      "type": "BS"
+    },
+    {
+      "gl": "140500",
+      "name": "GST input credit",
+      "type": "BS"
+    },
+    {
+      "gl": "150100",
+      "name": "Prepaid insurance",
+      "type": "BS"
+    },
+    {
+      "gl": "160000",
+      "name": "GR/IR clearing",
+      "type": "BS"
+    },
+    {
+      "gl": "170100",
+      "name": "Intercompany receivable",
+      "type": "BS"
+    },
+    {
+      "gl": "180100",
+      "name": "Accumulated depreciation",
+      "type": "BS"
+    },
+    {
+      "gl": "199999",
+      "name": "Suspense account",
+      "type": "BS"
+    },
+    {
+      "gl": "210000",
+      "name": "Trade payables",
+      "type": "BS"
+    },
+    {
+      "gl": "220100",
+      "name": "Accrued expenses",
+      "type": "BS"
+    },
+    {
+      "gl": "220200",
+      "name": "Provision for bonus",
+      "type": "BS"
+    },
+    {
+      "gl": "230100",
+      "name": "GST output payable",
+      "type": "BS"
+    },
+    {
+      "gl": "231000",
+      "name": "TDS payable",
+      "type": "BS"
+    },
+    {
+      "gl": "270100",
+      "name": "Intercompany payable",
+      "type": "BS"
+    },
+    {
+      "gl": "410000",
+      "name": "Sales, cement",
+      "type": "PL"
+    },
+    {
+      "gl": "510000",
+      "name": "Raw material consumed",
+      "type": "PL"
+    },
+    {
+      "gl": "520000",
+      "name": "Power and fuel",
+      "type": "PL"
+    },
+    {
+      "gl": "530000",
+      "name": "Freight outward",
+      "type": "PL"
+    },
+    {
+      "gl": "540000",
+      "name": "Repairs and maintenance",
+      "type": "PL"
+    },
+    {
+      "gl": "550000",
+      "name": "Salaries and wages",
+      "type": "PL"
+    },
+    {
+      "gl": "550500",
+      "name": "Bonus",
+      "type": "PL"
+    },
+    {
+      "gl": "560000",
+      "name": "Professional and IT services",
+      "type": "PL"
+    },
+    {
+      "gl": "570000",
+      "name": "Insurance",
+      "type": "PL"
+    },
+    {
+      "gl": "580000",
+      "name": "Depreciation",
+      "type": "PL"
+    },
+    {
+      "gl": "590000",
+      "name": "Bad debts written off",
+      "type": "PL"
+    },
+    {
+      "gl": "595000",
+      "name": "Foreign exchange loss",
+      "type": "PL"
+    }
+  ]
+}

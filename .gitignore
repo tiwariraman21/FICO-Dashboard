@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+dist/
+web/dist/
+*.log
+.DS_Store
+# The dashboard's own decisions: written at runtime, binary, and not the company's data.
+db/fico.db
+db/fico.db-wal
+db/fico.db-shm

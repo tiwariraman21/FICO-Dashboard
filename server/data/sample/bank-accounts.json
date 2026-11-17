@@ -1,0 +1,68 @@
+[
+  {
+    "id": "HDFC-4521",
+    "companyCode": "1000",
+    "bank": "HDFC Bank",
+    "branch": "Pune, FC Road",
+    "type": "Current account",
+    "last4": "4521",
+    "balance": 146000000,
+    "limit": 0,
+    "statementDate": "2026-11-09"
+  },
+  {
+    "id": "ICICI-0087",
+    "companyCode": "1000",
+    "bank": "ICICI Bank",
+    "branch": "Pune, Baner",
+    "type": "Current account",
+    "last4": "0087",
+    "balance": 32000000,
+    "limit": 0,
+    "statementDate": "2026-11-09"
+  },
+  {
+    "id": "HDFC-7710",
+    "companyCode": "2000",
+    "bank": "HDFC Bank",
+    "branch": "Mumbai, Fort",
+    "type": "Current account",
+    "last4": "7710",
+    "balance": 98000000,
+    "limit": 0,
+    "statementDate": "2026-11-09"
+  },
+  {
+    "id": "AXIS-3302",
+    "companyCode": "2000",
+    "bank": "Axis Bank",
+    "branch": "Mumbai, BKC",
+    "type": "Current account",
+    "last4": "3302",
+    "balance": 14000000,
+    "limit": 0,
+    "statementDate": "2026-11-09"
+  },
+  {
+    "id": "SBI-6618",
+    "companyCode": "3000",
+    "bank": "State Bank of India",
+    "branch": "Nagpur, Sitabuldi",
+    "type": "Current account",
+    "last4": "6618",
+    "balance": 18500000,
+    "limit": 0,
+    "statementDate": "2026-11-08"
+  },
+  {
+    "id": "SBI-9001",
+    "companyCode": "3000",
+    "bank": "State Bank of India",
+    "branch": "Nagpur, Sitabuldi",
+    "type": "Cash credit",
+    "last4": "9001",
+    "balance": -93500000,
+    "limit": 100000000,
+    "statementDate": "2026-11-08"
+  }
+]

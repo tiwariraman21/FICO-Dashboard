@@ -1,0 +1,267 @@
+[
+  {
+    "id": "V100101",
+    "name": "Aditya Refractories",
+    "city": "Bhilai",
+    "companyCodes": [
+      "1000",
+      "2000"
+    ],
+    "paymentTermsDays": 45,
+    "msmeCategory": "small",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "27AACF5300K1Z1",
+    "bankAccountLast4": "4551",
+    "bankLastChangedAt": "2026-02-06",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100102",
+    "name": "Oman Mining LLC",
+    "city": "Muscat, Oman",
+    "companyCodes": [
+      "1000"
+    ],
+    "paymentTermsDays": 60,
+    "msmeCategory": null,
+    "foreign": true,
+    "currency": "USD",
+    "gstin": null,
+    "bankAccountLast4": "4698",
+    "bankLastChangedAt": "2026-04-04",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100103",
+    "name": "Bharat Bearings",
+    "city": "Rajkot",
+    "companyCodes": [
+      "1000",
+      "3000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": "micro",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "22AACH5406M1Z3",
+    "bankAccountLast4": "8454",
+    "bankLastChangedAt": "2025-11-08",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100104",
+    "name": "Vindhya Logistics",
+    "city": "Raipur",
+    "companyCodes": [
+      "2000",
+      "3000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": "small",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "08AACI5459N1Z4",
+    "bankAccountLast4": "1820",
+    "bankLastChangedAt": "2026-03-21",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Finance office"
+  },
+  {
+    "id": "V100105",
+    "name": "Shreeji Minerals",
+    "city": "Udaipur",
+    "companyCodes": [
+      "1000",
+      "3000"
+    ],
+    "paymentTermsDays": 45,
+    "msmeCategory": null,
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "27AACJ5512P1Z5",
+    "bankAccountLast4": "8307",
+    "bankLastChangedAt": "2025-05-01",
+    "bankChangedBy": null,
+    "discountTerms": {
+      "percent": 2,
+      "withinDays": 10
+    },
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100106",
+    "name": "Sunfield Packaging",
+    "city": "Pune",
+    "companyCodes": [
+      "1000",
+      "2000",
+      "3000"
+    ],
+    "paymentTermsDays": 45,
+    "msmeCategory": "small",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "24AACK5565Q1Z6",
+    "bankAccountLast4": "3799",
+    "bankLastChangedAt": "2025-06-19",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Finance office"
+  },
+  {
+    "id": "V100107",
+    "name": "Konkan Conveyors",
+    "city": "Kolhapur",
+    "companyCodes": [
+      "1000",
+      "3000"
+    ],
+    "paymentTermsDays": 45,
+    "msmeCategory": "small",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "22AACL5618R1Z7",
+    "bankAccountLast4": "4714",
+    "bankLastChangedAt": "2025-05-18",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100108",
+    "name": "Jebel Coal DMCC",
+    "city": "Dubai, UAE",
+    "companyCodes": [
+      "2000"
+    ],
+    "paymentTermsDays": 90,
+    "msmeCategory": null,
+    "foreign": true,
+    "currency": "USD",
+    "gstin": null,
+    "bankAccountLast4": "1696",
+    "bankLastChangedAt": "2026-04-05",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Receivables team"
+  },
+  {
+    "id": "V100109",
+    "name": "Saraswati Chemicals",
+    "city": "Nashik",
+    "companyCodes": [
+      "1000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": "micro",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "27AACN5724K1Z9",
+    "bankAccountLast4": "7086",
+    "bankLastChangedAt": "2026-01-03",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100110",
+    "name": "Western Grid Power Distribution Ltd.",
+    "city": "Mumbai",
+    "companyCodes": [
+      "1000",
+      "2000",
+      "3000"
+    ],
+    "paymentTermsDays": 15,
+    "msmeCategory": null,
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "24AACO5777L1Z1",
+    "bankAccountLast4": "4443",
+    "bankLastChangedAt": "2025-06-18",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Accounts desk"
+  },
+  {
+    "id": "V100111",
+    "name": "Swift Freight Carriers",
+    "city": "Nagpur",
+    "companyCodes": [
+      "3000"
+    ],
+    "paymentTermsDays": 15,
+    "msmeCategory": "micro",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "22AACP5830M1Z2",
+    "bankAccountLast4": "7731",
+    "bankLastChangedAt": "2026-11-06",
+    "bankChangedBy": "Sanjay Pawar, on an emailed request",
+    "discountTerms": null,
+    "contact": "Finance office",
+    "previousBankAccountLast4": "7175"
+  },
+  {
+    "id": "V100112",
+    "name": "Apex Facility Services",
+    "city": "Mumbai",
+    "companyCodes": [
+      "2000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": null,
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "08AACQ5883N1Z3",
+    "bankAccountLast4": "9229",
+    "bankLastChangedAt": "2025-06-10",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Receivables team"
+  },
+  {
+    "id": "V100113",
+    "name": "Nexa IT Solutions Pvt. Ltd.",
+    "city": "Pune",
+    "companyCodes": [
+      "1000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": null,
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "27AACR5936P1Z4",
+    "bankAccountLast4": "3495",
+    "bankLastChangedAt": "2025-12-11",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Receivables team"
+  },
+  {
+    "id": "V100114",
+    "name": "Deccan Engineering Works",
+    "city": "Pune",
+    "companyCodes": [
+      "1000"
+    ],
+    "paymentTermsDays": 30,
+    "msmeCategory": "small",
+    "foreign": false,
+    "currency": "INR",
+    "gstin": "24AACS5989Q1Z5",
+    "bankAccountLast4": "3891",
+    "bankLastChangedAt": "2025-04-15",
+    "bankChangedBy": null,
+    "discountTerms": null,
+    "contact": "Receivables team"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "fico-infrabeat",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Finance (SAP FI/CO) monitoring and approval dashboard for InfraBeat Technologies",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,magenta \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:server": "npm run dev --workspace server",
+    "dev:web": "npm run dev --workspace web",
+    "build": "npm run build --workspace web",
+    "serve": "npm run start --workspace server",
+    "start": "npm run build && npm run serve",
+    "sample-data": "node server/scripts/build-sample-data.js",
+    "reset": "node server/scripts/reset-local-data.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
